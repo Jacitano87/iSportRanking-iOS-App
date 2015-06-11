@@ -1,0 +1,54 @@
+/* 
+   Localized.strings
+   iSRanking
+
+   Created by Antonio Fischetti on 23/02/11.
+   Copyright 2011 Amministatore. All rights reserved.
+ */
+"Loading..."="De carga...";
+"Back"="Vuelta"; 
+"Credits"="Informaciones";
+"Rankings site"="Sitio Rankings";
+"Home"="Inicio";
+"Soccer"="Fotbol";
+"Other"="Otros";
+"Other sports"="Otros deportes";
+"Update" = "Versiòn actual";
+"Six Nations"="Seis Naciones";
+"Tri Nations"="Tres Naciones";
+"Rugby World Cup"="Mundiales Rugby";
+"Mondial"="Mundiales";
+"Turn on cellular data or use Wi-Fi to access data"="Para acceder a sus datos, active los datos m√≤viles o use Wi-Fi";
+"Updating....."="Recargando en curso..";
+"World men's basketball"="Mundiales Basket M.";
+"World women's basketball"="Mundiales Basket F.";
+"European women's basketball"="Europeos Basket F.";
+"European men's basketball"="Europeos Basket M.";
+"World men's volleyball"="Mundiales voleibol M.";
+"World women's volleyball"="Mundiales voleibol F.";
+"F1 Manufacturers"="F1 Constructores";
+"F1 Pilots"="F1 Pilotos";
+"Ideated by:"="Una idea de:";
+"Coding and bug reviewers:"="Còdigo y revisiòn bug:";
+"Data entry:"="Inserciòn datos:";
+"Data found on:"="Datos encontrados sobre:";
+"Update now"="Actualizar ahora";
+"Don't show again"="Ocultar"; 
+"Continue"="Continuar";
+"Welcome to iSportRankings.If this is your first visit, you must upgrade data:"="Bienvenido a iSportRankings. Si es la primera vez que accedes es necesario actualizar los datos:";
+"Australian Open Men"="Australian Open Masculino";
+"Australian Open Women"="Australian Open Femenino";
+"Usopen Men"="Usopen Masculino";
+"Usopen Women"="Usopen Femenino";
+"Wimbledon Men"="Wimbledon Masculino";
+"Wimbledon Womem"="Wimbledon Femenino";
+"Roland Garros Men"="Roland Garros Masculino";
+"Roland Garros Women"="Roland Garros Femenino";
+"The International Federation of Association Football (French: Federation Internationale de Football Association), commonly known by the acronym FIFA (usual English pronunciation: fiːfa), is the international governing body of association football, futsal and beach football. Its headquarters are located in Zurich, Switzerland, and its current president is Sepp Blatter. FIFA is responsible for the organisation and governance of football's major international tournaments, most notably the FIFA World Cup, held since 1930. Nineteen editions of the FIFA World Cup have been held so far. The next edition is to be held in Brazil in 2014.FIFA has 208 member associations, three more than the International Olympic Committee and five fewer than the International Association of Athletics Federations."="La Federation Internationale de Football Association (Federacion Internacional de Fútbol Asociacion), universalmente conocida por sus siglas FIFA, es la institución que gobierna las federaciones de fútbol en todo el mundo. Se fundó el 21 de mayo de 1904 y tiene su sede en Zúrich, Suiza. Forma parte del FA Board Internacional, organismo encargado de modificar las reglas del juego. Además, la FIFA organiza los campeonatos mundiales de fútbol en sus distintas modalidades.";
+"The Ballon d'Or,referred to as the European Footballer of the Year award, was an annual association football award. It was presented to the player who had been considered to have performed the best over the previous calendar year. The award was conceived by France Football's chief magazine writer Gabriel Hanot, who asked his colleagues to vote for the player of the year in Europe in 1956. The inaugural winner was Stanley Matthews of Blackpool."="El Balon de Oro (en francés, Ballon d'Or) era un premio individual que otorgaba anualmente la revista especializada France Football al mejor jugador de fútbol del mundo, aunque originalmente el premio estaba reservado a jugadores europeos y que jugaban en Europa. El premio fue creado en 1956 por Gabriel Hanot, siendo el primer ganador el futbolista ingles Stanley Matthews del Blackpool Football Club. En 2010 la FIFA y el grupo editorial Amaury, propietario del diario deportivo France Football, llegaron a un acuerdo mediante el cual los trofeos FIFA World Player y Balón de Oro pasaban a formar un solo galardón, que lleva el nombre de FIFA Balón de Oro.";
+"The International Rugby Board (IRB) is the world governing and law-making body for the sport of rugby union, and previously for rugby football. It was founded in 1886 as the International Rugby Football Board (IRFB) by the unions of Scotland, Wales and Ireland. England originally refused to take part, but in 1890, it became the first non-founding union to become a member. The International Rugby Football Board changed its name to the International Rugby Board in 1997. The IRB's headquarters are located in Dublin, Ireland."="La International Rugby Board, universalmente conocido por su sigla IRB es la institución que gobierna las federaciones de rugby a nivel internacional. Se fundó el 1 de enero de 1886 con el nombre de International Rugby Football Board por Escocia, Gales e Irlanda, siendo después miembro Inglaterra en 1890. Su sede está en Dublín. La IRB agrupa 96 federaciones de rugby de distintos países además de 19 miembros asociados y seis asociaciones regionales, y está encargada de reglamentar las reglas del juego, como de organizar la Copa del Mundo de Rugby.";
+"The Barclays ATP World Tour Finals is a tennis tournament played at the end of each year, involving the top eight players in the men's tennis world rankings.Unlike most of the other events on the men's tour, the ATP World Tour Finals is not a straightforward knock-out tournament. Eight players are divided into two groups of four, and play three round-robin matches each against the other three players in their group. From there, the two players with the best records in each group progress to the semifinals, with the winners meeting in the final to determine the champion. Winners are awarded up to 1500 rankings points."="El ATP World Tour Finals (anteriormente Tennis Masters Cup, también llamada Copa Masters o simplemente Masters Torneo de Maestros) es un torneo de tenis que se disputa anualmente al final de cada temporada, con la participación de los ocho jugadores mejor ubicados en la clasificación mundial, sobre pista dura.A diferencia de los demás torneos que se disputan a lo largo del año, el Masters no es un torneo de eliminación directa. En cambio, los ocho participantes se dividen en dos zonas de 4 jugadores cada una, en las cuales cada uno de ellos se enfrenta a los otros 3 tenistas de su grupo. Tras ello, los dos jugadores mejor ubicados en cada zona avanzan a semifinales, donde los partidos pasan a ser eliminatorios y definen a los dos jugadores que jugarán la final.";	
+"Formula One, also known as Formula 1 or F1 and referred to officially as the FIA Formula One World Championship, is the most restrictive class of single seater auto racing sanctioned by the Federation Internationale de l'Automobile (FIA). The formula in the name refers to a set of rules with which all participants' cars must comply. The F1 season consists of a series of races, known as Grands Prix (translated to English as Big Prizes), held on purpose-built circuits and public roads. The results of each race are combined to determine two annual World Championships, one for the drivers and one for the constructors, with racing drivers, constructor teams, track officials, organizers, and circuits required to be holders of valid Super Licences, the most restrictive class of racing licence issued by the FIA."="La Fórmula 1, a menudo abreviada como F1 y también denominada la «categoría reina del automovilismo» o «la máxima categoría del automovilismo», es la competición automovilística internacional más popular.A cada carrera se le denomina Gran Premio y la competición que las agrupa se denomina Campeonato Mundial de Fórmula 1. La entidad que la dirige es la Federación Internacional de Automovilismo (FIA). La mayoría de los circuitos de carreras donde se celebran los Grandes Premios son circuitos permanentes, aunque también se utilizan circuitos urbanos. Los automóviles utilizados son monoplazas con la última tecnología disponible; algunas de estas mejoras fueron desarrolladas en la Fórmula 1 y terminaron siendo utilizadas en automóviles comerciales, como el freno de disco o el turbocompresor.3";	
+"The National Basketball Association (NBA) is the pre-eminent men's professional basketball league in North America which consists of thirty franchised member clubs, of which twenty-nine are located in the United States and one in Canada. It is an active member of USA Basketball (USAB), which is recognized by the International Basketball Federation as the National Governing Body (NGB) for basketball in the United States. The NBA is one of the four major North American professional sports leagues, which include Major League Baseball (MLB), the National Football League (NFL), and the National Hockey League (NHL)."="La NBA o National Basketball Association (Asociación Nacional de Baloncesto) es la principal liga estadounidense de baloncesto profesional.La NBA se fundó en Nueva York el 6 de junio de 1946 como la Basketball Association of America. Adoptó el nombre actual en 1949, tras la unión de varios clubes de la desaparecida National Basketball League. El partido inaugural fue un New York Knicks - Toronto Huskies, el 1 de noviembre de 1946 con el Maple Leaf Gardens de Toronto como escenario. El partido fue visto por 7.090 espectadores. La liga tiene sus oficinas oficiales situadas en la Olympic Tower en la Quinta Avenida 645 de Nueva York. Los estudios de la NBA Entertainment y NBA TV están localizados en Secaucus, Nueva Jersey.";
+"Warning! updates the database in wi-fi mode"="Atención! actualizaciones de la base de datos en modo wi-fi";
+

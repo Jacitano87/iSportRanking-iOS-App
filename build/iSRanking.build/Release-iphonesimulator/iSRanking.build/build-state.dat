@@ -1,0 +1,1920 @@
+TiSRanking
+v7
+r0
+t320183791.318900
+cCheck dependencies
+cProcessInfoPlistFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Info.plist iSRanking-Info.plist
+cCpResource build/Release-iphonesimulator/iSRanking.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/Default@2x.png Default@2x.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/ori2.png ori2.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/originale.jpg originale.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/nba2.jpeg nba2.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/ballonDor.jpeg ballonDor.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/icon@2x.png icon@2x.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/icon.png icon.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/australian.jpg australian.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/rolandGarros.jpg rolandGarros.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/wimbledon.jpeg wimbledon.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/usopen.jpeg usopen.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/coppaDavis.jpeg coppaDavis.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/tennis.png tennis.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/mondialiRugby.jpg mondialiRugby.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/rankingRugby.jpeg rankingRugby.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/bundesliga.jpeg bundesliga.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/coppaMondo.jpg coppaMondo.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/europaLeague.jpeg europaLeague.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/championsLeague.jpeg championsLeague.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/primeraDivision.jpeg primeraDivision.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/premiereLeague.jpeg premiereLeague.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/serieA.jpeg serieA.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/soccer2.png soccer2.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/others2.png others2.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/formula1.png formula1.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/rugby2.png rugby2.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/home2.png home2.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/basket.jpg basket.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/volley.jpeg volley.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/basket2.jpg basket2.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/fipav.jpg fipav.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/fifas.jpeg fifas.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/formula1.jpeg formula1.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/nba.jpeg nba.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/motogp.jpg motogp.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/irb.jpg irb.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/aptennis.jpg aptennis.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/formulauno.jpeg formulauno.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/seiNazioni.jpeg seiNazioni.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/triNations.jpg triNations.jpg
+cCpResource build/Release-iphonesimulator/iSRanking.app/heinekenCup.jpeg heinekenCup.jpeg
+cCpResource build/Release-iphonesimulator/iSRanking.app/320x480.png 320x480.png
+cCpResource build/Release-iphonesimulator/iSRanking.app/480x210.png 480x210.png
+cCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localizable.strings Italian.lproj/Localizable.strings
+cCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localizable.strings Spanish.lproj/Localizable.strings
+cProcessPCH /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch.gch iSRanking_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/main.o /Users/developer87/Documents/iSRanking/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRankingAppDelegate.o /Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/aTableView.o /Users/developer87/Documents/iSRanking/Classes/aTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TextTableView.o /Users/developer87/Documents/iSRanking/Classes/TextTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MyCell.o /Users/developer87/Documents/iSRanking/Classes/MyCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Reachability.o /Users/developer87/Documents/iSRanking/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XPathQuery.o /Users/developer87/Documents/iSRanking/Classes/XPathQuery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHpple.o /Users/developer87/Documents/iSRanking/Classes/TFHpple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHppleElement.o /Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XMLParser.o /Users/developer87/Documents/iSRanking/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadData.o /Users/developer87/Documents/iSRanking/Classes/LoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadDataTH.o /Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Update.o /Users/developer87/Documents/iSRanking/Classes/Update.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/DatabasesViewController.o /Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/IWebView.o /Users/developer87/Documents/iSRanking/Classes/IWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MainViewController.o /Users/developer87/Documents/iSRanking/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/InfoViewController.o /Users/developer87/Documents/iSRanking/Classes/InfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/SoccerViewController.o /Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RugbyViewController.o /Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TennisViewController.o /Users/developer87/Documents/iSRanking/Classes/TennisViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/OtherViewController.o /Users/developer87/Documents/iSRanking/Classes/OtherViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RankingTableView.o /Users/developer87/Documents/iSRanking/Classes/RankingTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking normal i386
+cGenerateDSYMFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app.dSYM /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking
+cTouch /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c000000004CC10DA50000000000002401
+t1287720357
+s9217
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10DA500000000000098A9
+t1287720357
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10DA50000000000008F14
+t1287720357
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10DA50000000000003F47
+t1287720357
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10DA50000000000004BF8
+t1287720357
+s19448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Users/developer87/Documents/iSRanking/320x480.png
+c000000004D62B73F000000000000FCDB
+t1298315071
+s64731
+
+N/Users/developer87/Documents/iSRanking/480x210.png
+c000000004D622C87000000000000830C
+t1298279559
+s33548
+
+N/Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.h
+c000000004D568C3F0000000000000349
+t1297517631
+s841
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m
+c000000004D653ED40000000000000E0E
+t1298480852
+s3598
+i"DatabasesViewController.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/IWebView.h
+c000000004D6540A200000000000001BB
+t1298481314
+s443
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/IWebView.m
+c000000004D65664B0000000000001191
+t1298490955
+s4497
+i"IWebView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/InfoViewController.h
+c000000004D62891200000000000001FD
+t1298303250
+s509
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/InfoViewController.m
+c000000004D653A280000000000001B71
+t1298479656
+s7025
+i"InfoViewController.h"
+i"MainViewController.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/LoadData.h
+c000000004D6520F9000000000000020F
+t1298473209
+s527
+i<Foundation/Foundation.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/LoadData.m
+c000000004D65203900000000000006C2
+t1298473017
+s1730
+i"LoadData.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/LoadDataTH.h
+c000000004D6529D900000000000001A2
+t1298475481
+s418
+i<Foundation/Foundation.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m
+c000000004D652CD30000000000000603
+t1298476243
+s1539
+i"LoadDataTH.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/MainViewController.h
+c000000004D64F94D0000000000000294
+t1298463053
+s660
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/MainViewController.m
+c000000004D653A280000000000001E4A
+t1298479656
+s7754
+i"MainViewController.h"
+i"Reachability.h"
+i"Update.h"
+i"RankingTableView.h"
+i"InfoViewController.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/MyCell.h
+c000000004D5E491B0000000000000113
+t1298024731
+s275
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/MyCell.m
+c000000004D6548430000000000000388
+t1298483267
+s904
+i"MyCell.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/OtherViewController.h
+c000000004D65477A00000000000001CF
+t1298483066
+s463
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/OtherViewController.m
+c000000004D65478F0000000000001404
+t1298483087
+s5124
+i"OtherViewController.h"
+i"aTableView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/RankingTableView.h
+c000000004D654760000000000000018E
+t1298483040
+s398
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/RankingTableView.m
+c000000004D6547600000000000002175
+t1298483040
+s8565
+i"RankingTableView.h"
+i"TextTableView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/Reachability.m
+c000000004D5B0938000000000000239F
+t1297811768
+s9119
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/RugbyViewController.h
+c000000004D6546F400000000000001D5
+t1298482932
+s469
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m
+c000000004D6546F400000000000012FD
+t1298482932
+s4861
+i"RugbyViewController.h"
+i"aTableView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/SoccerViewController.h
+c000000004D5FFD2900000000000001D0
+t1298136361
+s464
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m
+c000000004D654A7900000000000013AF
+t1298483833
+s5039
+i"SoccerViewController.h"
+i"aTableView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/TFHpple.h
+c000000004D11BD29000000000000019A
+t1293008169
+s410
+i<Foundation/Foundation.h>
+i"TFHppleElement.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/TFHpple.m
+c000000004D11BD2900000000000004CB
+t1293008169
+s1227
+i"TFHpple.h"
+i"XPathQuery.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/TFHppleElement.h
+c000000004D271F99000000000000028B
+t1294409625
+s651
+i<Foundation/Foundation.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m
+c000000004D271F990000000000000A0F
+t1294409625
+s2575
+i"TFHppleElement.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/TennisViewController.h
+c000000004D65476000000000000001D1
+t1298483040
+s465
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/TennisViewController.m
+c000000004D654B640000000000001357
+t1298484068
+s4951
+i"TennisViewController.h"
+i"aTableView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/TextTableView.h
+c000000004D6280270000000000000297
+t1298300967
+s663
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/TextTableView.m
+c000000004D65488C0000000000001A2D
+t1298483340
+s6701
+i"TextTableView.h"
+i"MyCell.h"
+i"Reachability.h"
+i"IWebView.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/Update.h
+c000000004D656518000000000000052E
+t1298490648
+s1326
+i<Foundation/Foundation.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/Update.m
+c000000004D656518000000000000941D
+t1298490648
+s37917
+i"Update.h"
+i"LoadData.h"
+i"TFHpple.h"
+i"TFHppleElement.h"
+i"DatabasesViewController.h"
+i"XMLParser.h"
+i<AudioToolbox/AudioToolbox.h>
+i"LoadDataTH.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/XMLParser.h
+c000000004D650D2000000000000001EE
+t1298468128
+s494
+i<Foundation/Foundation.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/XMLParser.m
+c000000004D64F1840000000000000551
+t1298461060
+s1361
+i"XMLParser.h"
+i"LoadData.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/XPathQuery.h
+c000000004A6D8F520000000000000113
+t1248694098
+s275
+
+N/Users/developer87/Documents/iSRanking/Classes/XPathQuery.m
+c000000004A6D8F52000000000000138B
+t1248694098
+s5003
+i"XPathQuery.h"
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/HTMLparser.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/aTableView.h
+c000000004D600F31000000000000030A
+t1298140977
+s778
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/aTableView.m
+c000000004D653D400000000000001C68
+t1298480448
+s7272
+i"aTableView.h"
+i"DatabasesViewController.h"
+i"IWebView.h"
+i"Reachability.h"
+
+N/Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.h
+c000000004D654FA4000000000000012C
+t1298485156
+s300
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m
+c000000004D654FD900000000000011CE
+t1298485209
+s4558
+i"iSRankingAppDelegate.h"
+i"MainViewController.h"
+i"SoccerViewController.h"
+i"RugbyViewController.h"
+i"TennisViewController.h"
+i"OtherViewController.h"
+i"Reachability.h"
+i"Update.h"
+
+N/Users/developer87/Documents/iSRanking/Default.png
+c000000004D6248CE000000000000FC16
+t1298286798
+s64534
+
+N/Users/developer87/Documents/iSRanking/Default@2x.png
+c000000004D62849B000000000005188A
+t1298302107
+s333962
+
+N/Users/developer87/Documents/iSRanking/English.lproj/Localizable.strings
+c000000004D65609D000000000000008E
+t1298489501
+s142
+
+N/Users/developer87/Documents/iSRanking/English.lproj/Localized.strings
+c000000004D65609D000000000000008E
+t1298489501
+s142
+
+N/Users/developer87/Documents/iSRanking/Italian.lproj/Localizable.strings
+c000000004D6562120000000000002717
+t1298489874
+s10007
+
+N/Users/developer87/Documents/iSRanking/Italian.lproj/Localized.strings
+c000000004D6562120000000000002717
+t1298489874
+s10007
+
+N/Users/developer87/Documents/iSRanking/Localized.strings
+c000000004D65609D000000000000008E
+t1298489501
+s142
+
+N/Users/developer87/Documents/iSRanking/Spanish.lproj/Localizable.strings
+c000000004D65621200000000000025ED
+t1298489874
+s9709
+
+N/Users/developer87/Documents/iSRanking/Spanish.lproj/Localized.strings
+c000000004D65621200000000000025ED
+t1298489874
+s9709
+
+N/Users/developer87/Documents/iSRanking/aptennis.jpg
+c000000004D5A4FA700000000000004E1
+t1297764263
+s1249
+
+N/Users/developer87/Documents/iSRanking/australian.jpg
+c000000004D5912040000000000000461
+t1297682948
+s1121
+
+N/Users/developer87/Documents/iSRanking/ballonDor.jpeg
+c000000004D5D5D880000000000002563
+t1297964424
+s9571
+
+N/Users/developer87/Documents/iSRanking/basket.jpg
+c000000004D591C5400000000000003AC
+t1297685588
+s940
+
+N/Users/developer87/Documents/iSRanking/basket2.jpg
+c000000004D591C68000000000000043D
+t1297685608
+s1085
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app
+t1298490956
+s1768
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app.dSYM
+t1298490956
+s102
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/320x480.png
+t1298486975
+s64731
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/480x210.png
+t1298486975
+s33548
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Default.png
+t1298486974
+s64534
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Default@2x.png
+t1298486974
+s333962
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localizable.strings
+t1298489901
+s42
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localized.strings
+t1298489874
+s42
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Info.plist
+t1298490427
+s566
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localizable.strings
+t1298489901
+s15270
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localized.strings
+t1298489874
+s15270
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Localized.strings
+t2
+s0
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/PkgInfo
+t1298490427
+s8
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localizable.strings
+t1298489901
+s14595
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localized.strings
+t1298489874
+s14595
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/aptennis.jpg
+t1298486975
+s1249
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/australian.jpg
+t1298486974
+s1121
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/ballonDor.jpeg
+t1298486974
+s9571
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/basket.jpg
+t1298486974
+s940
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/basket2.jpg
+t1298486974
+s1085
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/bundesliga.jpeg
+t1298486974
+s1355
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/championsLeague.jpeg
+t1298486974
+s989
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/coppaDavis.jpeg
+t1298486974
+s656
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/coppaMondo.jpg
+t1298486974
+s872
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/europaLeague.jpeg
+t1298486974
+s986
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/fifas.jpeg
+t1298486974
+s1416
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/fipav.jpg
+t1298486974
+s1010
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/formula1.jpeg
+t1298486974
+s1042
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/formula1.png
+t1298486974
+s1958
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/formulauno.jpeg
+t1298486975
+s837
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/heinekenCup.jpeg
+t1298486975
+s2039
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/home2.png
+t1298486974
+s1922
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking
+t1298490956
+s179244
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/icon.png
+t1298486974
+s8887
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/icon@2x.png
+t1298486974
+s8126
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/irb.jpg
+t1298486974
+s11909
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/italian.lproj/Localized.strings
+t2
+s0
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/mondialiRugby.jpg
+t1298486974
+s1066
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/motogp.jpg
+t1298486974
+s1060
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/nba.jpeg
+t1298486974
+s931
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/nba2.jpeg
+t1298486974
+s1128
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/ori2.png
+t1298486974
+s48901
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/originale.jpg
+t1298486974
+s28490
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/others2.png
+t1298486974
+s2035
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/premiereLeague.jpeg
+t1298486974
+s1365
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/primeraDivision.jpeg
+t1298486974
+s1137
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/rankingRugby.jpeg
+t1298486974
+s1357
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/rolandGarros.jpg
+t1298486974
+s1385
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/rugby2.png
+t1298486974
+s2346
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/seiNazioni.jpeg
+t1298486975
+s3499
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/serieA.jpeg
+t1298486974
+s1124
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/soccer2.png
+t1298486974
+s2418
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/tennis.png
+t1298486974
+s4531
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/triNations.jpg
+t1298486975
+s1420
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/usopen.jpeg
+t1298486974
+s1115
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/volley.jpeg
+t1298486974
+s887
+
+N/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/wimbledon.jpeg
+t1298486974
+s1326
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/DatabasesViewController.o
+t1298490431
+s47848
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/IWebView.o
+t1298490955
+s59864
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/InfoViewController.o
+t1298490432
+s57296
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadData.o
+t1298490431
+s19788
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadDataTH.o
+t1298490431
+s17724
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MainViewController.o
+t1298490956
+s70108
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MyCell.o
+t1298490430
+s40632
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/OtherViewController.o
+t1298490432
+s58792
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RankingTableView.o
+t1298490432
+s61696
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Reachability.o
+t1298490430
+s19436
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RugbyViewController.o
+t1298490432
+s58096
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/SoccerViewController.o
+t1298490432
+s58588
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHpple.o
+t1298490430
+s12804
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHppleElement.o
+t1298490430
+s13248
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TennisViewController.o
+t1298490432
+s58708
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TextTableView.o
+t1298490430
+s62700
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Update.o
+t1298490956
+s112000
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XMLParser.o
+t1298490431
+s16108
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XPathQuery.o
+t1298490430
+s20120
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/aTableView.o
+t1298490430
+s65552
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRanking.LinkFileList
+c000000004D6556BE0000000000000BCA
+t1298486974
+s3018
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRankingAppDelegate.o
+t1298490955
+s58228
+
+N/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/main.o
+t1298490430
+s6464
+
+N/Users/developer87/Documents/iSRanking/bundesliga.jpeg
+c000000004D56CA52000000000000054B
+t1297533522
+s1355
+
+N/Users/developer87/Documents/iSRanking/championsLeague.jpeg
+c000000004D565DC600000000000003DD
+t1297505734
+s989
+
+N/Users/developer87/Documents/iSRanking/coppaDavis.jpeg
+c000000004D580D4D0000000000000290
+t1297616205
+s656
+
+N/Users/developer87/Documents/iSRanking/coppaMondo.jpg
+c000000004D56B77A0000000000000368
+t1297528698
+s872
+
+N/Users/developer87/Documents/iSRanking/europaLeague.jpeg
+c000000004D565DD900000000000003DA
+t1297505753
+s986
+
+N/Users/developer87/Documents/iSRanking/fifas.jpeg
+c000000004D5A464C0000000000000588
+t1297761868
+s1416
+
+N/Users/developer87/Documents/iSRanking/fipav.jpg
+c000000004D591CC500000000000003F2
+t1297685701
+s1010
+
+N/Users/developer87/Documents/iSRanking/formula1.jpeg
+c000000004D5A4C260000000000000412
+t1297763366
+s1042
+
+N/Users/developer87/Documents/iSRanking/formula1.png
+c000000004D54187200000000000007A6
+t1297356914
+s1958
+
+N/Users/developer87/Documents/iSRanking/formulauno.jpeg
+c000000004D5BF3310000000000000345
+t1297871665
+s837
+
+N/Users/developer87/Documents/iSRanking/heinekenCup.jpeg
+c000000004D5CFBC900000000000007F7
+t1297939401
+s2039
+
+N/Users/developer87/Documents/iSRanking/home2.png
+c000000004D5417630000000000000782
+t1297356643
+s1922
+
+N/Users/developer87/Documents/iSRanking/iSRanking_Prefix.pch
+c000000004D654D6100000000000000BB
+t1298484577
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/icon.png
+c000000004D62906300000000000022B7
+t1298305123
+s8887
+
+N/Users/developer87/Documents/iSRanking/icon@2x.png
+c000000004D5D55ED0000000000001FBE
+t1297962477
+s8126
+
+N/Users/developer87/Documents/iSRanking/irb.jpg
+c000000004D5A4DBD0000000000002E85
+t1297763773
+s11909
+
+N/Users/developer87/Documents/iSRanking/italian.lproj/Localized.strings
+c000000004D65609D000000000000008E
+t1298489501
+s142
+
+N/Users/developer87/Documents/iSRanking/main.m
+c000000004D654F4E0000000000000181
+t1298485070
+s385
+i<UIKit/UIKit.h>
+
+N/Users/developer87/Documents/iSRanking/mondialiRugby.jpg
+c000000004D57120F000000000000042A
+t1297551887
+s1066
+
+N/Users/developer87/Documents/iSRanking/motogp.jpg
+c000000004D5A4C8D0000000000000424
+t1297763469
+s1060
+
+N/Users/developer87/Documents/iSRanking/nba.jpeg
+c000000004D5A467100000000000003A3
+t1297761905
+s931
+
+N/Users/developer87/Documents/iSRanking/nba2.jpeg
+c000000004D5D60390000000000000468
+t1297965113
+s1128
+
+N/Users/developer87/Documents/iSRanking/ori2.png
+c000000004D6158F2000000000000BF05
+t1298225394
+s48901
+
+N/Users/developer87/Documents/iSRanking/originale.jpg
+c000000004D5D636F0000000000006F4A
+t1297965935
+s28490
+
+N/Users/developer87/Documents/iSRanking/others2.png
+c000000004D54180100000000000007F3
+t1297356801
+s2035
+
+N/Users/developer87/Documents/iSRanking/premiereLeague.jpeg
+c000000004D5658170000000000000555
+t1297504279
+s1365
+
+N/Users/developer87/Documents/iSRanking/primeraDivision.jpeg
+c000000004D5658300000000000000471
+t1297504304
+s1137
+
+N/Users/developer87/Documents/iSRanking/rankingRugby.jpeg
+c000000004D5712A9000000000000054D
+t1297552041
+s1357
+
+N/Users/developer87/Documents/iSRanking/rolandGarros.jpg
+c000000004D5A51C00000000000000569
+t1297764800
+s1385
+
+N/Users/developer87/Documents/iSRanking/rugby2.png
+c000000004D541900000000000000092A
+t1297357056
+s2346
+
+N/Users/developer87/Documents/iSRanking/seiNazioni.jpeg
+c000000004D5CFB0C0000000000000DAB
+t1297939212
+s3499
+
+N/Users/developer87/Documents/iSRanking/serieA.jpeg
+c000000004D5656F70000000000000464
+t1297503991
+s1124
+
+N/Users/developer87/Documents/iSRanking/soccer2.png
+c000000004D5419DA0000000000000972
+t1297357274
+s2418
+
+N/Users/developer87/Documents/iSRanking/tennis.png
+c000000004D58026700000000000011B3
+t1297613415
+s4531
+
+N/Users/developer87/Documents/iSRanking/triNations.jpg
+c000000004D5CFB4E000000000000058C
+t1297939278
+s1420
+
+N/Users/developer87/Documents/iSRanking/usopen.jpeg
+c000000004D580D18000000000000045B
+t1297616152
+s1115
+
+N/Users/developer87/Documents/iSRanking/volley.jpeg
+c000000004D591CEC0000000000000377
+t1297685740
+s887
+
+N/Users/developer87/Documents/iSRanking/wimbledon.jpeg
+c000000004D580D05000000000000052E
+t1297616133
+s1326
+
+N/var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch.gch
+t1298490429
+s15133904
+
+N/var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-gaqrnrwnpillyybhlvbgqyjjmhra/iSRanking_Prefix.pch.gch
+t1298486976
+s15113424
+
+NiSRanking-Info.plist
+c000000004D654FFF0000000000000356
+t1298485247
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320183791#320183791#0(0"0(0#1#0"8672008768#0"0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/DatabasesViewController.o /Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183231.171138
+e320183231.338350
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/DatabasesViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m320183231#320183231#0(0"0(0#0#72"/Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m8668779040#2165"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/DatabasesViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/DatabasesViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/IWebView.o /Users/developer87/Documents/iSRanking/Classes/IWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183755.564501
+e320183755.776128
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/IWebView.o
+x/Users/developer87/Documents/iSRanking/Classes/IWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/developer87/Documents/iSRanking/Classes/IWebView.m320183755#320183755#0(0"0(0#0#57"/Users/developer87/Documents/iSRanking/Classes/IWebView.m8663821728#2135"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/IWebView.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/IWebView.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/InfoViewController.o /Users/developer87/Documents/iSRanking/Classes/InfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183231.856481
+e320183232.139740
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/InfoViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/InfoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/developer87/Documents/iSRanking/Classes/InfoViewController.m320183231#320183232#0(0"0(0#0#67"/Users/developer87/Documents/iSRanking/Classes/InfoViewController.m8659465248#2155"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/InfoViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/InfoViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadData.o /Users/developer87/Documents/iSRanking/Classes/LoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.878098
+e320183231.030457
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadData.o
+x/Users/developer87/Documents/iSRanking/Classes/LoadData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/developer87/Documents/iSRanking/Classes/LoadData.m320183230#320183231#0(0"0(0#0#57"/Users/developer87/Documents/iSRanking/Classes/LoadData.m8663695968#2135"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/LoadData.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadData.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadDataTH.o /Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183231.005475
+e320183231.171028
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadDataTH.o
+x/Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m320183231#320183231#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m8658669120#2139"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/LoadDataTH.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/LoadDataTH.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MainViewController.o /Users/developer87/Documents/iSRanking/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183755.776225
+e320183756.086009
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MainViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/developer87/Documents/iSRanking/Classes/MainViewController.m320183755#320183756#0(0"0(0#0#67"/Users/developer87/Documents/iSRanking/Classes/MainViewController.m8654744672#2155"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/MainViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MyCell.o /Users/developer87/Documents/iSRanking/Classes/MyCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.416983
+e320183230.529532
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MyCell.o
+x/Users/developer87/Documents/iSRanking/Classes/MyCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/developer87/Documents/iSRanking/Classes/MyCell.m320183230#320183230#0(0"0(0#0#55"/Users/developer87/Documents/iSRanking/Classes/MyCell.m8663645280#2131"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/MyCell.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/MyCell.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/OtherViewController.o /Users/developer87/Documents/iSRanking/Classes/OtherViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183232.480148
+e320183232.725787
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/OtherViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/OtherViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/developer87/Documents/iSRanking/Classes/OtherViewController.m320183232#320183232#0(0"0(0#0#68"/Users/developer87/Documents/iSRanking/Classes/OtherViewController.m8664652992#2157"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/OtherViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/OtherViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RankingTableView.o /Users/developer87/Documents/iSRanking/Classes/RankingTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183232.725892
+e320183232.936558
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RankingTableView.o
+x/Users/developer87/Documents/iSRanking/Classes/RankingTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/developer87/Documents/iSRanking/Classes/RankingTableView.m320183232#320183232#0(0"0(0#0#65"/Users/developer87/Documents/iSRanking/Classes/RankingTableView.m8658838496#2151"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/RankingTableView.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RankingTableView.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Reachability.o /Users/developer87/Documents/iSRanking/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.498752
+e320183230.769805
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Reachability.o
+x/Users/developer87/Documents/iSRanking/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/developer87/Documents/iSRanking/Classes/Reachability.m320183230#320183230#0(0"0(0#0#61"/Users/developer87/Documents/iSRanking/Classes/Reachability.m8662669088#2143"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/Reachability.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RugbyViewController.o /Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183232.139852
+e320183232.480035
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RugbyViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m320183232#320183232#0(0"0(0#0#68"/Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m8656517408#2157"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/RugbyViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/RugbyViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/SoccerViewController.o /Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183232.123417
+e320183232.462996
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/SoccerViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m320183232#320183232#0(0"0(0#0#69"/Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m8658321728#2159"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/SoccerViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/SoccerViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHpple.o /Users/developer87/Documents/iSRanking/Classes/TFHpple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.741077
+e320183230.851371
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHpple.o
+x/Users/developer87/Documents/iSRanking/Classes/TFHpple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/developer87/Documents/iSRanking/Classes/TFHpple.m320183230#320183230#0(0"0(0#0#56"/Users/developer87/Documents/iSRanking/Classes/TFHpple.m8669038112#2133"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/TFHpple.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHpple.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHppleElement.o /Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.769910
+e320183230.877994
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHppleElement.o
+x/Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m320183230#320183230#0(0"0(0#0#63"/Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m8667757216#2147"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/TFHppleElement.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TFHppleElement.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TennisViewController.o /Users/developer87/Documents/iSRanking/Classes/TennisViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183232.463096
+e320183232.742089
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TennisViewController.o
+x/Users/developer87/Documents/iSRanking/Classes/TennisViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/developer87/Documents/iSRanking/Classes/TennisViewController.m320183232#320183232#0(0"0(0#0#69"/Users/developer87/Documents/iSRanking/Classes/TennisViewController.m8669993472#2159"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/TennisViewController.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TennisViewController.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TextTableView.o /Users/developer87/Documents/iSRanking/Classes/TextTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.220090
+e320183230.498649
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TextTableView.o
+x/Users/developer87/Documents/iSRanking/Classes/TextTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/developer87/Documents/iSRanking/Classes/TextTableView.m320183230#320183230#0(0"0(0#0#62"/Users/developer87/Documents/iSRanking/Classes/TextTableView.m8665145760#2145"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/TextTableView.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/TextTableView.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Update.o /Users/developer87/Documents/iSRanking/Classes/Update.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183755.263575
+e320183756.330654
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Update.o
+x/Users/developer87/Documents/iSRanking/Classes/Update.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/developer87/Documents/iSRanking/Classes/Update.m320183755#320183756#0(0"0(0#0#55"/Users/developer87/Documents/iSRanking/Classes/Update.m8654258528#2131"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/Update.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/Update.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XMLParser.o /Users/developer87/Documents/iSRanking/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.851476
+e320183231.005365
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XMLParser.o
+x/Users/developer87/Documents/iSRanking/Classes/XMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/developer87/Documents/iSRanking/Classes/XMLParser.m: In function '-[XMLParser parser:didStartElement:namespaceURI:qualifiedName:attributes:]':
+o/Users/developer87/Documents/iSRanking/Classes/XMLParser.m:43: warning: assignment makes pointer from integer without a cast
+lSLF07#2@66"Compile /Users/developer87/Documents/iSRanking/Classes/XMLParser.m320183230#320183231#0(275"/Users/developer87/Documents/iSRanking/Classes/XMLParser.m: In function '-[XMLParser parser:didStartElement:namespaceURI:qualifiedName:attributes:]':/Users/developer87/Documents/iSRanking/Classes/XMLParser.m:43: warning: assignment makes pointer from integer without a cast1(22@52"Assignment makes pointer from integer without a cast320183230#150#125#0(6@58"/Users/developer87/Documents/iSRanking/Classes/XMLParser.m320153860#43#0#43#0#0"0(0#0#58"/Users/developer87/Documents/iSRanking/Classes/XMLParser.m8665288800#2137"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/XMLParser.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XMLParser.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XPathQuery.o /Users/developer87/Documents/iSRanking/Classes/XPathQuery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.529639
+e320183230.740960
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XPathQuery.o
+x/Users/developer87/Documents/iSRanking/Classes/XPathQuery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/developer87/Documents/iSRanking/Classes/XPathQuery.m320183230#320183230#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/Classes/XPathQuery.m8659262528#2139"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/XPathQuery.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/XPathQuery.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/aTableView.o /Users/developer87/Documents/iSRanking/Classes/aTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183230.139245
+e320183230.416875
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/aTableView.o
+x/Users/developer87/Documents/iSRanking/Classes/aTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/developer87/Documents/iSRanking/Classes/aTableView.m320183230#320183230#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/Classes/aTableView.m8667767616#2139"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/aTableView.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/aTableView.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRankingAppDelegate.o /Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183755.261451
+e320183755.564301
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRankingAppDelegate.o
+x/Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m320183755#320183755#0(0"0(0#0#69"/Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m8651693472#2159"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/Classes/iSRankingAppDelegate.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRankingAppDelegate.o0#
+
+CCompileC build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/main.o /Users/developer87/Documents/iSRanking/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183229.907364
+e320183230.139139
+r1
+xCompileC
+xbuild/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/main.o
+x/Users/developer87/Documents/iSRanking/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/developer87/Documents/iSRanking/main.m320183229#320183230#0(0"0(0#0#45"/Users/developer87/Documents/iSRanking/main.m8658577824#2119"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch -c /Users/developer87/Documents/iSRanking/main.m -o /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s320182701.283848
+e320182701.319709
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings320182701#320182701#0(0"0(0#0#72"/Users/developer87/Documents/iSRanking/English.lproj/Localizable.strings8659907168#499"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary English.lproj/Localizable.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localized.strings English.lproj/Localized.strings
+s320182674.135494
+e320182674.387330
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj/Localized.strings
+xEnglish.lproj/Localized.strings
+lSLF07#2@36"Copy English.lproj/Localized.strings320182674#320182674#0(0"0(0#0#70"/Users/developer87/Documents/iSRanking/English.lproj/Localized.strings8656796192#497"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary English.lproj/Localized.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/English.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localizable.strings Italian.lproj/Localizable.strings
+s320182701.284720
+e320182701.322058
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localizable.strings
+xItalian.lproj/Localizable.strings
+lSLF07#2@38"Copy Italian.lproj/Localizable.strings320182701#320182701#0(0"0(0#0#72"/Users/developer87/Documents/iSRanking/Italian.lproj/Localizable.strings8659725504#499"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Italian.lproj/Localizable.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localized.strings Italian.lproj/Localized.strings
+s320182674.137182
+e320182674.412677
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj/Localized.strings
+xItalian.lproj/Localized.strings
+lSLF07#2@36"Copy Italian.lproj/Localized.strings320182674#320182674#0(0"0(0#0#70"/Users/developer87/Documents/iSRanking/Italian.lproj/Localized.strings8625507136#497"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Italian.lproj/Localized.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Italian.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Localized.strings Localized.strings
+r0
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localizable.strings Spanish.lproj/Localizable.strings
+s320182701.319819
+e320182701.354289
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localizable.strings
+xSpanish.lproj/Localizable.strings
+lSLF07#2@38"Copy Spanish.lproj/Localizable.strings320182701#320182701#0(0"0(0#0#72"/Users/developer87/Documents/iSRanking/Spanish.lproj/Localizable.strings8659489920#499"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Spanish.lproj/Localizable.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localized.strings Spanish.lproj/Localized.strings
+s320182674.387433
+e320182674.442054
+r1
+xCopyStringsFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj/Localized.strings
+xSpanish.lproj/Localized.strings
+lSLF07#2@36"Copy Spanish.lproj/Localized.strings320182674#320182674#0(0"0(0#0#70"/Users/developer87/Documents/iSRanking/Spanish.lproj/Localized.strings8659677888#497"    cd /Users/developer87/Documents/iSRanking    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Spanish.lproj/Localized.strings --outdir /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Spanish.lproj0#
+
+CCopyStringsFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/italian.lproj/Localized.strings italian.lproj/Localized.strings
+r0
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/320x480.png 320x480.png
+s320179775.032305
+e320179775.039876
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/320x480.png
+x320x480.png
+lSLF07#2@16"Copy 320x480.png320179775#320179775#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/320x480.png8656410752#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/320x480.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/480x210.png 480x210.png
+s320179775.034431
+e320179775.044132
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/480x210.png
+x480x210.png
+lSLF07#2@16"Copy 480x210.png320179775#320179775#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/480x210.png8655064672#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/480x210.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/Default.png Default.png
+s320179774.777441
+e320179774.808674
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/Default.png8658537920#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/Default.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/Default@2x.png Default@2x.png
+s320179774.778349
+e320179774.808835
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png320179774#320179774#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/Default@2x.png8657037408#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/Default@2x.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/aptennis.jpg aptennis.jpg
+s320179774.999892
+e320179775.025852
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/aptennis.jpg
+xaptennis.jpg
+lSLF07#2@17"Copy aptennis.jpg320179775#320179775#0(0"0(0#0#51"/Users/developer87/Documents/iSRanking/aptennis.jpg8651246240#495"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/aptennis.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/australian.jpg australian.jpg
+s320179774.788274
+e320179774.848763
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/australian.jpg
+xaustralian.jpg
+lSLF07#2@19"Copy australian.jpg320179774#320179774#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/australian.jpg8654894464#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/australian.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/ballonDor.jpeg ballonDor.jpeg
+s320179774.785158
+e320179774.847546
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/ballonDor.jpeg
+xballonDor.jpeg
+lSLF07#2@19"Copy ballonDor.jpeg320179774#320179774#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/ballonDor.jpeg8656170752#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/ballonDor.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/basket.jpg basket.jpg
+s320179774.935276
+e320179774.960767
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/basket.jpg
+xbasket.jpg
+lSLF07#2@15"Copy basket.jpg320179774#320179774#0(0"0(0#0#49"/Users/developer87/Documents/iSRanking/basket.jpg8653305440#493"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/basket.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/basket2.jpg basket2.jpg
+s320179774.949717
+e320179774.961043
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/basket2.jpg
+xbasket2.jpg
+lSLF07#2@16"Copy basket2.jpg320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/basket2.jpg8653036608#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/basket2.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/bundesliga.jpeg bundesliga.jpeg
+s320179774.866230
+e320179774.906032
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/bundesliga.jpeg
+xbundesliga.jpeg
+lSLF07#2@20"Copy bundesliga.jpeg320179774#320179774#0(0"0(0#0#54"/Users/developer87/Documents/iSRanking/bundesliga.jpeg8648474016#498"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/bundesliga.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/championsLeague.jpeg championsLeague.jpeg
+s320179774.881934
+e320179774.906393
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/championsLeague.jpeg
+xchampionsLeague.jpeg
+lSLF07#2@25"Copy championsLeague.jpeg320179774#320179774#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/championsLeague.jpeg8635333760#503"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/championsLeague.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/coppaDavis.jpeg coppaDavis.jpeg
+s320179774.830113
+e320179774.847407
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/coppaDavis.jpeg
+xcoppaDavis.jpeg
+lSLF07#2@20"Copy coppaDavis.jpeg320179774#320179774#0(0"0(0#0#54"/Users/developer87/Documents/iSRanking/coppaDavis.jpeg8653245120#498"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/coppaDavis.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/coppaMondo.jpg coppaMondo.jpg
+s320179774.872697
+e320179774.906140
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/coppaMondo.jpg
+xcoppaMondo.jpg
+lSLF07#2@19"Copy coppaMondo.jpg320179774#320179774#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/coppaMondo.jpg8642325536#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/coppaMondo.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/europaLeague.jpeg europaLeague.jpeg
+s320179774.879018
+e320179774.906250
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/europaLeague.jpeg
+xeuropaLeague.jpeg
+lSLF07#2@22"Copy europaLeague.jpeg320179774#320179774#0(0"0(0#0#56"/Users/developer87/Documents/iSRanking/europaLeague.jpeg8640533056#500"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/europaLeague.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/fifas.jpeg fifas.jpeg
+s320179774.961246
+e320179775.025207
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/fifas.jpeg
+xfifas.jpeg
+lSLF07#2@15"Copy fifas.jpeg320179774#320179775#0(0"0(0#0#49"/Users/developer87/Documents/iSRanking/fifas.jpeg8650045056#493"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/fifas.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/fipav.jpg fipav.jpg
+s320179774.952545
+e320179775.026776
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/fipav.jpg
+xfipav.jpg
+lSLF07#2@14"Copy fipav.jpg320179774#320179775#0(0"0(0#0#48"/Users/developer87/Documents/iSRanking/fipav.jpg8651788640#492"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/fipav.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/formula1.jpeg formula1.jpeg
+s320179774.963989
+e320179775.025348
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/formula1.jpeg
+xformula1.jpeg
+lSLF07#2@18"Copy formula1.jpeg320179774#320179775#0(0"0(0#0#52"/Users/developer87/Documents/iSRanking/formula1.jpeg8648341088#496"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/formula1.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/formula1.png formula1.png
+s320179774.915479
+e320179774.960043
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/formula1.png
+xformula1.png
+lSLF07#2@17"Copy formula1.png320179774#320179774#0(0"0(0#0#51"/Users/developer87/Documents/iSRanking/formula1.png8653968288#495"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/formula1.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/formulauno.jpeg formulauno.jpeg
+s320179775.004076
+e320179775.026062
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/formulauno.jpeg
+xformulauno.jpeg
+lSLF07#2@20"Copy formulauno.jpeg320179775#320179775#0(0"0(0#0#54"/Users/developer87/Documents/iSRanking/formulauno.jpeg8655002112#498"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/formulauno.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/heinekenCup.jpeg heinekenCup.jpeg
+s320179775.026985
+e320179775.038438
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/heinekenCup.jpeg
+xheinekenCup.jpeg
+lSLF07#2@21"Copy heinekenCup.jpeg320179775#320179775#0(0"0(0#0#55"/Users/developer87/Documents/iSRanking/heinekenCup.jpeg8651633632#499"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/heinekenCup.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/home2.png home2.png
+s320179774.925164
+e320179774.960277
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/home2.png
+xhome2.png
+lSLF07#2@14"Copy home2.png320179774#320179774#0(0"0(0#0#48"/Users/developer87/Documents/iSRanking/home2.png8653718880#492"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/home2.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/icon.png icon.png
+s320179774.787124
+e320179774.848629
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png320179774#320179774#0(0"0(0#0#47"/Users/developer87/Documents/iSRanking/icon.png8655548384#491"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/icon.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/icon@2x.png icon@2x.png
+s320179774.786445
+e320179774.848426
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/icon@2x.png
+xicon@2x.png
+lSLF07#2@16"Copy icon@2x.png320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/icon@2x.png8655779968#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/icon@2x.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/irb.jpg irb.jpg
+s320179774.982610
+e320179775.025728
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/irb.jpg
+xirb.jpg
+lSLF07#2@12"Copy irb.jpg320179774#320179775#0(0"0(0#0#46"/Users/developer87/Documents/iSRanking/irb.jpg8655512512#490"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/irb.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/mondialiRugby.jpg mondialiRugby.jpg
+s320179774.854732
+e320179774.905802
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/mondialiRugby.jpg
+xmondialiRugby.jpg
+lSLF07#2@22"Copy mondialiRugby.jpg320179774#320179774#0(0"0(0#0#56"/Users/developer87/Documents/iSRanking/mondialiRugby.jpg8650445504#500"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/mondialiRugby.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/motogp.jpg motogp.jpg
+s320179774.977014
+e320179775.025604
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/motogp.jpg
+xmotogp.jpg
+lSLF07#2@15"Copy motogp.jpg320179774#320179775#0(0"0(0#0#49"/Users/developer87/Documents/iSRanking/motogp.jpg8656926656#493"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/motogp.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/nba.jpeg nba.jpeg
+s320179774.969935
+e320179775.025475
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/nba.jpeg
+xnba.jpeg
+lSLF07#2@13"Copy nba.jpeg320179774#320179775#0(0"0(0#0#47"/Users/developer87/Documents/iSRanking/nba.jpeg8638653536#491"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/nba.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/nba2.jpeg nba2.jpeg
+s320179774.783966
+e320179774.808966
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/nba2.jpeg
+xnba2.jpeg
+lSLF07#2@14"Copy nba2.jpeg320179774#320179774#0(0"0(0#0#48"/Users/developer87/Documents/iSRanking/nba2.jpeg8656277792#492"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/nba2.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/ori2.png ori2.png
+s320179774.782059
+e320179774.845867
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/ori2.png
+xori2.png
+lSLF07#2@13"Copy ori2.png320179774#320179774#0(0"0(0#0#47"/Users/developer87/Documents/iSRanking/ori2.png8656624736#491"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/ori2.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/originale.jpg originale.jpg
+s320179774.783211
+e320179774.845991
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/originale.jpg
+xoriginale.jpg
+lSLF07#2@18"Copy originale.jpg320179774#320179774#0(0"0(0#0#52"/Users/developer87/Documents/iSRanking/originale.jpg8656514720#496"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/originale.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/others2.png others2.png
+s320179774.913452
+e320179774.959925
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/others2.png
+xothers2.png
+lSLF07#2@16"Copy others2.png320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/others2.png8641905920#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/others2.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/premiereLeague.jpeg premiereLeague.jpeg
+s320179774.894552
+e320179774.906658
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/premiereLeague.jpeg
+xpremiereLeague.jpeg
+lSLF07#2@24"Copy premiereLeague.jpeg320179774#320179774#0(0"0(0#0#58"/Users/developer87/Documents/iSRanking/premiereLeague.jpeg8651590080#502"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/premiereLeague.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/primeraDivision.jpeg primeraDivision.jpeg
+s320179774.891154
+e320179774.906507
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/primeraDivision.jpeg
+xprimeraDivision.jpeg
+lSLF07#2@25"Copy primeraDivision.jpeg320179774#320179774#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/primeraDivision.jpeg8616202368#503"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/primeraDivision.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/rankingRugby.jpeg rankingRugby.jpeg
+s320179774.860502
+e320179774.905921
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/rankingRugby.jpeg
+xrankingRugby.jpeg
+lSLF07#2@22"Copy rankingRugby.jpeg320179774#320179774#0(0"0(0#0#56"/Users/developer87/Documents/iSRanking/rankingRugby.jpeg8649796768#500"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/rankingRugby.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/rolandGarros.jpg rolandGarros.jpg
+s320179774.789136
+e320179774.848888
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/rolandGarros.jpg
+xrolandGarros.jpg
+lSLF07#2@21"Copy rolandGarros.jpg320179774#320179774#0(0"0(0#0#55"/Users/developer87/Documents/iSRanking/rolandGarros.jpg8654419552#499"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/rolandGarros.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/rugby2.png rugby2.png
+s320179774.922598
+e320179774.960159
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/rugby2.png
+xrugby2.png
+lSLF07#2@15"Copy rugby2.png320179774#320179774#0(0"0(0#0#49"/Users/developer87/Documents/iSRanking/rugby2.png8653852864#493"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/rugby2.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/seiNazioni.jpeg seiNazioni.jpeg
+s320179775.010215
+e320179775.026603
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/seiNazioni.jpeg
+xseiNazioni.jpeg
+lSLF07#2@20"Copy seiNazioni.jpeg320179775#320179775#0(0"0(0#0#54"/Users/developer87/Documents/iSRanking/seiNazioni.jpeg8649891648#498"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/seiNazioni.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/serieA.jpeg serieA.jpeg
+s320179774.900847
+e320179774.961172
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/serieA.jpeg
+xserieA.jpeg
+lSLF07#2@16"Copy serieA.jpeg320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/serieA.jpeg8651022624#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/serieA.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/soccer2.png soccer2.png
+s320179774.906738
+e320179774.959792
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/soccer2.png
+xsoccer2.png
+lSLF07#2@16"Copy soccer2.png320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/soccer2.png8648350016#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/soccer2.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/tennis.png tennis.png
+s320179774.848964
+e320179774.904891
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/tennis.png
+xtennis.png
+lSLF07#2@15"Copy tennis.png320179774#320179774#0(0"0(0#0#49"/Users/developer87/Documents/iSRanking/tennis.png8651604768#493"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/tennis.png /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/triNations.jpg triNations.jpg
+s320179775.017775
+e320179775.026908
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/triNations.jpg
+xtriNations.jpg
+lSLF07#2@19"Copy triNations.jpg320179775#320179775#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/triNations.jpg8659646048#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/triNations.jpg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/usopen.jpeg usopen.jpeg
+s320179774.829014
+e320179774.845739
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/usopen.jpeg
+xusopen.jpeg
+lSLF07#2@16"Copy usopen.jpeg320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/usopen.jpeg8653376448#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/usopen.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/volley.jpeg volley.jpeg
+s320179774.938878
+e320179774.960910
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/volley.jpeg
+xvolley.jpeg
+lSLF07#2@16"Copy volley.jpeg320179774#320179774#0(0"0(0#0#50"/Users/developer87/Documents/iSRanking/volley.jpeg8653139360#494"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/volley.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CCpResource build/Release-iphonesimulator/iSRanking.app/wimbledon.jpeg wimbledon.jpeg
+s320179774.809056
+e320179774.845590
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSRanking.app/wimbledon.jpeg
+xwimbledon.jpeg
+lSLF07#2@19"Copy wimbledon.jpeg320179774#320179774#0(0"0(0#0#53"/Users/developer87/Documents/iSRanking/wimbledon.jpeg8653785920#497"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/developer87/Documents/iSRanking/wimbledon.jpeg /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
+CGenerateDSYMFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app.dSYM /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking
+s320183756.561306
+e320183756.613560
+r1
+xGenerateDSYMFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app.dSYM
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking
+lSLF07#2@119"GenerateDSYMFile build/Release-iphonesimulator/iSRanking.app.dSYM build/Release-iphonesimulator/iSRanking.app/iSRanking320183756#320183756#0(0"0(0#0#92"/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking8664962112#393"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking -o /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app.dSYM0#
+
+CLd /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking normal i386
+s320183756.330751
+e320183756.560936
+r1
+xLd
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking
+xnormal
+xi386
+lSLF07#2@97"Link /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking320183756#320183756#0(0"0(0#0#0"8671666528#999"    cd /Users/developer87/Documents/iSRanking    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -filelist /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/Objects-normal/i386/iSRanking.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -lxml2.2 -lsqlite3 -framework SystemConfiguration -o /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/iSRanking0#
+
+CProcessInfoPlistFile /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Info.plist iSRanking-Info.plist
+s320183227.571369
+e320183227.618123
+r1
+xProcessInfoPlistFile
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Info.plist
+xiSRanking-Info.plist
+lSLF07#2@28"Process iSRanking-Info.plist320183227#320183227#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/iSRanking-Info.plist8665398592#489"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iSRanking-Info.plist -genpkginfo /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app/Info.plist0#
+
+CProcessPCH /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch.gch iSRanking_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320183227.620687
+e320183229.907110
+r1
+xProcessPCH
+x/var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch.gch
+xiSRanking_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iSRanking_Prefix.pch320183227#320183229#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/iSRanking_Prefix.pch8659352160#2007"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/developer87/Documents/iSRanking/iSRanking_Prefix.pch -o /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-fklsccwszyxnnqcztvrihieepzsw/iSRanking_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-gaqrnrwnpillyybhlvbgqyjjmhra/iSRanking_Prefix.pch.gch iSRanking_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320179775.045340
+e320179776.090125
+r1
+xProcessPCH
+x/var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-gaqrnrwnpillyybhlvbgqyjjmhra/iSRanking_Prefix.pch.gch
+xiSRanking_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iSRanking_Prefix.pch320179775#320179776#0(0"0(0#0#59"/Users/developer87/Documents/iSRanking/iSRanking_Prefix.pch8658788512#2007"    cd /Users/developer87/Documents/iSRanking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-generated-files.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-own-target-headers.hmap -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-all-target-headers.hmap -iquote /Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/iSRanking-project-headers.hmap -F/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator -I/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources/i386 -I/Users/developer87/Documents/iSRanking/build/iSRanking.build/Release-iphonesimulator/iSRanking.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/developer87/Documents/iSRanking/iSRanking_Prefix.pch -o /var/folders/2T/2TxdvL72Gy4f0iidcJHUX++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSRanking_Prefix-gaqrnrwnpillyybhlvbgqyjjmhra/iSRanking_Prefix.pch.gch0#
+
+CTouch /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app
+s320183756.613662
+e320183756.617254
+r1
+xTouch
+x/Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app
+lSLF07#2@88"Touch /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app320183756#320183756#0(0"0(0#0#0"8663846400#282"    cd /Users/developer87/Documents/iSRanking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/developer87/Documents/iSRanking/build/Release-iphonesimulator/iSRanking.app0#
+
